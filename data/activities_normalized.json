@@ -38231,5 +38231,44 @@
     "start_date_local": "2026-03-10T12:21:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17695852907",
+    "moving_time": 496.0,
+    "name": "Mittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-12T11:47:53Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17696225586",
+    "moving_time": 357.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-12T13:00:04Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 7715.1,
+    "elevation_gain": 21.2,
+    "id": "17696232809",
+    "moving_time": 2851.0,
+    "name": "7.5km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-12T11:59:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
