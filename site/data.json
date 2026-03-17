@@ -26522,6 +26522,42 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/17741323402",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 17,
+      "name": "Zwift - HIIT 80% FTP #2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17744257895",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 12,
+      "name": "Mittagstraining",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17752394075",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 12,
+      "name": "Pyramid Intervals",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17753320210",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 13,
+      "name": "Nachmittagstraining",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17753540738",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46639,6 +46675,15 @@
           "distance": 10184.5,
           "elevation_gain": 82.6,
           "moving_time": 3928.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17753320210"
+          ],
+          "count": 1,
+          "distance": 10487.8,
+          "elevation_gain": 29.8,
+          "moving_time": 4089.0
         }
       },
       "Swim": {
@@ -46742,6 +46787,15 @@
           "distance": 16685.3,
           "elevation_gain": 307.0,
           "moving_time": 2503.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17744257895"
+          ],
+          "count": 1,
+          "distance": 22697.2,
+          "elevation_gain": 163.0,
+          "moving_time": 2775.0
         }
       },
       "Walk": {
@@ -47107,11 +47161,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 853.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17752394075",
+            "17753540738"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 782.0
         }
       }
     }
   },
-  "generated_at": "2026-03-16T15:25:07.126140+00:00",
+  "generated_at": "2026-03-17T15:23:30.917438+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

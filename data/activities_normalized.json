@@ -38309,5 +38309,57 @@
     "start_date_local": "2026-03-16T11:54:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 22697.2,
+    "elevation_gain": 163.0,
+    "id": "17744257895",
+    "moving_time": 2775.0,
+    "name": "Zwift - HIIT 80% FTP #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-16T17:34:57Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17752394075",
+    "moving_time": 406.0,
+    "name": "Mittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-17T12:05:20Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 10487.8,
+    "elevation_gain": 29.8,
+    "id": "17753320210",
+    "moving_time": 4089.0,
+    "name": "Pyramid Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T12:17:17Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17753540738",
+    "moving_time": 376.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-17T13:32:00Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
