@@ -38361,5 +38361,31 @@
     "start_date_local": "2026-03-17T13:32:00Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17782502167",
+    "moving_time": 356.0,
+    "name": "Abendtraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-19T18:05:17Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 7570.1,
+    "elevation_gain": 20.6,
+    "id": "17782502224",
+    "moving_time": 2840.0,
+    "name": "7.5km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-19T18:15:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

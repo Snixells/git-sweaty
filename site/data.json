@@ -26558,6 +26558,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/17753540738",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 18,
+      "name": "Abendtraining",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17782502167",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 18,
+      "name": "7.5km Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17782502224",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46684,6 +46702,15 @@
           "distance": 10487.8,
           "elevation_gain": 29.8,
           "moving_time": 4089.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17782502224"
+          ],
+          "count": 1,
+          "distance": 7570.1,
+          "elevation_gain": 20.6,
+          "moving_time": 2840.0
         }
       },
       "Swim": {
@@ -47171,11 +47198,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 782.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17782502167"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 356.0
         }
       }
     }
   },
-  "generated_at": "2026-03-19T15:16:55.748916+00:00",
+  "generated_at": "2026-03-20T15:15:53.864594+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
