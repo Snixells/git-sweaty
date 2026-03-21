@@ -38387,5 +38387,31 @@
     "start_date_local": "2026-03-19T18:15:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 1292.7,
+    "elevation_gain": 33.0,
+    "id": "17794440916",
+    "moving_time": 985.0,
+    "name": "Gadse gucken \ud83d\udc31",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-20T17:36:24Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 81032.6,
+    "elevation_gain": 229.4,
+    "id": "17802773166",
+    "moving_time": 11941.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-21T10:16:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
