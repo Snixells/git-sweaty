@@ -38413,5 +38413,31 @@
     "start_date_local": "2026-03-21T10:16:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17814905959",
+    "moving_time": 402.0,
+    "name": "Mittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-22T11:20:41Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 11068.0,
+    "elevation_gain": 32.6,
+    "id": "17814907004",
+    "moving_time": 3959.0,
+    "name": "11km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T11:27:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
