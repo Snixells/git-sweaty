@@ -38465,5 +38465,31 @@
     "start_date_local": "2026-03-23T14:21:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17844906242",
+    "moving_time": 496.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-24T16:59:13Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 6148.1,
+    "elevation_gain": 16.4,
+    "id": "17844906534",
+    "moving_time": 2278.0,
+    "name": "6km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-24T17:11:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
