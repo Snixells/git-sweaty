@@ -26675,6 +26675,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17866204760",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 22,
+      "name": "Nachtspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17871016938",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47062,12 +47071,13 @@
         "2026-03-26": {
           "activity_ids": [
             "17863510955",
-            "17866204760"
+            "17866204760",
+            "17871016938"
           ],
-          "count": 2,
-          "distance": 8140.0,
+          "count": 3,
+          "distance": 8383.5,
           "elevation_gain": 96.0,
-          "moving_time": 6993.0
+          "moving_time": 7210.0
         }
       },
       "WeightTraining": {
@@ -47393,7 +47403,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T15:28:39.940090+00:00",
+  "generated_at": "2026-03-27T15:17:53.960828+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
