@@ -26756,6 +26756,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17905145917",
       "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 18,
+      "name": "Abendradfahrt",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17915014864",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46665,6 +46674,15 @@
           "distance": 30786.1,
           "elevation_gain": 76.0,
           "moving_time": 4251.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "17915014864"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1540.0
         }
       },
       "Run": {
@@ -47515,7 +47533,7 @@
       }
     }
   },
-  "generated_at": "2026-03-30T15:28:17.258547+00:00",
+  "generated_at": "2026-03-31T15:26:51.526764+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
