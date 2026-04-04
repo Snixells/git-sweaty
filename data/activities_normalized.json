@@ -38725,5 +38725,70 @@
     "start_date_local": "2026-04-03T07:51:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 365.8,
+    "elevation_gain": 27.8,
+    "id": "17966570579",
+    "moving_time": 143.0,
+    "name": "Abendspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-03T18:19:57Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 1002.1,
+    "elevation_gain": 23.4,
+    "id": "17966570589",
+    "moving_time": 1044.0,
+    "name": "Nachtspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-03T21:07:14Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 665.0,
+    "elevation_gain": 9.0,
+    "id": "17971645905",
+    "moving_time": 539.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-04T11:05:07Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 7128.9,
+    "elevation_gain": 62.2,
+    "id": "17971653036",
+    "moving_time": 2828.0,
+    "name": "7km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T08:19:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 6764.2,
+    "elevation_gain": 42.8,
+    "id": "17975920068",
+    "moving_time": 6184.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-04T12:28:22Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
