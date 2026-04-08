@@ -26882,6 +26882,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18003104407",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 15,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18018670163",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 12,
+      "name": "Mittagstraining",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18025714327",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 11,
+      "name": "3x 100m, 3x 100m, 6x 200m Pyramide",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18025714420",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47108,6 +47135,15 @@
           "distance": 7128.9,
           "elevation_gain": 62.2,
           "moving_time": 2828.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18025714420"
+          ],
+          "count": 1,
+          "distance": 8162.7,
+          "elevation_gain": 38.8,
+          "moving_time": 3181.0
         }
       },
       "Swim": {
@@ -47399,6 +47435,15 @@
           "distance": 555.9,
           "elevation_gain": 13.0,
           "moving_time": 428.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18018670163"
+          ],
+          "count": 1,
+          "distance": 5660.7,
+          "elevation_gain": 112.4,
+          "moving_time": 3992.0
         }
       },
       "WeightTraining": {
@@ -47747,11 +47792,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 760.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18025714327"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 171.0
         }
       }
     }
   },
-  "generated_at": "2026-04-07T15:29:26.279243+00:00",
+  "generated_at": "2026-04-08T15:29:54.644022+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

@@ -38829,5 +38829,44 @@
     "start_date_local": "2026-04-06T10:54:00Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 5660.7,
+    "elevation_gain": 112.4,
+    "id": "18018670163",
+    "moving_time": 3992.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-07T15:45:24Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18025714327",
+    "moving_time": 171.0,
+    "name": "Mittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-08T12:50:43Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 8162.7,
+    "elevation_gain": 38.8,
+    "id": "18025714420",
+    "moving_time": 3181.0,
+    "name": "3x 100m, 3x 100m, 6x 200m Pyramide",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T11:41:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
