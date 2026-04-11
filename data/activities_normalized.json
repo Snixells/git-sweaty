@@ -38907,5 +38907,44 @@
     "start_date_local": "2026-04-10T11:44:36Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18057618534",
+    "moving_time": 1928.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-10T17:26:27Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 7100.9,
+    "elevation_gain": 42.4,
+    "id": "18057618806",
+    "moving_time": 2498.0,
+    "name": "7km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T18:14:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 41558.1,
+    "elevation_gain": 165.6,
+    "id": "18065329105",
+    "moving_time": 6168.0,
+    "name": "Mittagsradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T11:43:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
