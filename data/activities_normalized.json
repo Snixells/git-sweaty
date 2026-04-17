@@ -39024,5 +39024,44 @@
     "start_date_local": "2026-04-16T09:38:39Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18144049018",
+    "moving_time": 315.0,
+    "name": "Mittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-17T12:37:36Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 11009.2,
+    "elevation_gain": 17.2,
+    "id": "18144052667",
+    "moving_time": 3957.0,
+    "name": "11km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T12:45:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18144369699",
+    "moving_time": 349.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-17T14:06:49Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
