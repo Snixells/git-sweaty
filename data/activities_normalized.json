@@ -39063,5 +39063,18 @@
     "start_date_local": "2026-04-17T14:06:49Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 750.0,
+    "elevation_gain": 0.0,
+    "id": "18156458698",
+    "moving_time": 1760.0,
+    "name": "Freibadsaison ?? Er\u00f6ffnet!",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-18T12:18:44Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

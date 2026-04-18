@@ -27044,6 +27044,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18144369699",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 12,
+      "name": "Freibadsaison ?? Er\u00f6ffnet!",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18156458698",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47371,6 +47380,15 @@
           "distance": 525.0,
           "elevation_gain": 0.0,
           "moving_time": 1888.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18156458698"
+          ],
+          "count": 1,
+          "distance": 750.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1760.0
         }
       },
       "VirtualRide": {
@@ -48067,7 +48085,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:23:14.104502+00:00",
+  "generated_at": "2026-04-18T15:13:40.347993+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
