@@ -39076,5 +39076,31 @@
     "start_date_local": "2026-04-18T12:18:44Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 39478.4,
+    "elevation_gain": 178.6,
+    "id": "18160871332",
+    "moving_time": 6677.0,
+    "name": "Jana lernt Klickies",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T15:44:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 2003.2,
+    "elevation_gain": 18.6,
+    "id": "18172095347",
+    "moving_time": 1562.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-19T14:37:21Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
