@@ -39102,5 +39102,83 @@
     "start_date_local": "2026-04-19T14:37:21Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18202668420",
+    "moving_time": 3071.0,
+    "name": "Athletik",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-21T18:58:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18202668536",
+    "moving_time": 63.0,
+    "name": "Gewichtstraining am Abend",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-21T19:53:19Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 8969.8,
+    "elevation_gain": 9.4,
+    "id": "18202668882",
+    "moving_time": 3382.0,
+    "name": "9km Intervals: 15x400m",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T20:08:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 9473.8,
+    "elevation_gain": 77.0,
+    "id": "18202692454",
+    "moving_time": 1566.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T18:19:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 8774.8,
+    "elevation_gain": 63.0,
+    "id": "18203080046",
+    "moving_time": 1612.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T21:20:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 1232.8,
+    "elevation_gain": 69.6,
+    "id": "18203458416",
+    "moving_time": 731.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T19:54:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
