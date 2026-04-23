@@ -39180,5 +39180,44 @@
     "start_date_local": "2026-04-21T19:54:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "18215137057",
+    "moving_time": 3948.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-04-22T16:42:50Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 100.4,
+    "elevation_gain": 1.0,
+    "id": "18223195030",
+    "moving_time": 17.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T12:08:27Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 24878.4,
+    "elevation_gain": 170.2,
+    "id": "18224955284",
+    "moving_time": 3775.0,
+    "name": "Mittagsradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T12:08:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
