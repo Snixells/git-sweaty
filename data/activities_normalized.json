@@ -39232,5 +39232,44 @@
     "start_date_local": "2026-04-24T14:45:48Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18256451386",
+    "moving_time": 126.0,
+    "name": "Abendtraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-25T19:27:03Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 6828.9,
+    "elevation_gain": 16.6,
+    "id": "18256562233",
+    "moving_time": 2439.0,
+    "name": "6km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T19:35:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 34060.6,
+    "elevation_gain": 283.4,
+    "id": "18263742905",
+    "moving_time": 5208.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T10:08:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
