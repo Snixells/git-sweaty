@@ -27224,6 +27224,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18306359312",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 11,
+      "name": "TrainingPeaks Virtual - Workout: 8x1min, 4x2min, 2x4min",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18317434235",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47763,6 +47772,15 @@
           "distance": 31598.5,
           "elevation_gain": 161.0,
           "moving_time": 3643.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18317434235"
+          ],
+          "count": 1,
+          "distance": 42488.3,
+          "elevation_gain": 167.6,
+          "moving_time": 4495.0
         }
       },
       "Walk": {
@@ -48395,7 +48413,7 @@
       }
     }
   },
-  "generated_at": "2026-04-29T15:39:05.669392+00:00",
+  "generated_at": "2026-04-30T15:35:19.702276+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

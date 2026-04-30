@@ -39323,5 +39323,18 @@
     "start_date_local": "2026-04-29T12:29:53Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 42488.3,
+    "elevation_gain": 167.6,
+    "id": "18317434235",
+    "moving_time": 4495.0,
+    "name": "TrainingPeaks Virtual - Workout: 8x1min, 4x2min, 2x4min",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T11:40:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
