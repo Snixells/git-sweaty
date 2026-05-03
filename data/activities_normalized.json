@@ -39349,5 +39349,31 @@
     "start_date_local": "2026-05-02T11:36:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18358812672",
+    "moving_time": 294.0,
+    "name": "Physiotherapie in der Mittagspause",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-03T11:21:04Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 12033.3,
+    "elevation_gain": 21.4,
+    "id": "18358813017",
+    "moving_time": 4207.0,
+    "name": "12km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T11:30:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
