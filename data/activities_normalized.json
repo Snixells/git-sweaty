@@ -39375,5 +39375,18 @@
     "start_date_local": "2026-05-03T11:30:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18361535812",
+    "moving_time": 641.0,
+    "name": "10min Core",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-03T17:10:51Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
   }
 ]
