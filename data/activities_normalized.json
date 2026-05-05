@@ -39388,5 +39388,18 @@
     "start_date_local": "2026-05-03T17:10:51Z",
     "type": "PhysicalTherapy",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 2100.0,
+    "elevation_gain": 0.0,
+    "id": "18374812131",
+    "moving_time": 4167.0,
+    "name": "Schwimmen am Abend",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-04T17:35:48Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
