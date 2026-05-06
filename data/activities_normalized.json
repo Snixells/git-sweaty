@@ -39401,5 +39401,44 @@
     "start_date_local": "2026-05-04T17:35:48Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18390279230",
+    "moving_time": 2679.0,
+    "name": "Physiotherapie am Abend",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-05T19:00:34Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 12180.2,
+    "elevation_gain": 0.0,
+    "id": "18390279498",
+    "moving_time": 4443.0,
+    "name": "Pyramid Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T19:53:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 1275.0,
+    "elevation_gain": 0.0,
+    "id": "18399304775",
+    "moving_time": 2679.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-06T14:28:44Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
