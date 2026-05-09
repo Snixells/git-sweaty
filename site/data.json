@@ -27323,6 +27323,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18424698548",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 10,
+      "name": "Physiotherapie am Vormittag",
+      "subtype": "PhysicalTherapy",
+      "type": "PhysicalTherapy",
+      "url": "https://www.strava.com/activities/18436292269",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 10,
+      "name": "14km Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18436292475",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47131,6 +47149,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2679.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18436292269"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 560.0
         }
       },
       "Ride": {
@@ -47735,6 +47762,15 @@
           "distance": 12180.2,
           "elevation_gain": 0.0,
           "moving_time": 4443.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18436292475"
+          ],
+          "count": 1,
+          "distance": 14123.2,
+          "elevation_gain": 64.6,
+          "moving_time": 5303.0
         }
       },
       "Swim": {
@@ -48587,7 +48623,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T15:32:26.185992+00:00",
+  "generated_at": "2026-05-09T15:19:40.923695+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

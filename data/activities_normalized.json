@@ -39466,5 +39466,31 @@
     "start_date_local": "2026-05-08T12:49:48Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18436292269",
+    "moving_time": 560.0,
+    "name": "Physiotherapie am Vormittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-09T10:30:20Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 14123.2,
+    "elevation_gain": 64.6,
+    "id": "18436292475",
+    "moving_time": 5303.0,
+    "name": "14km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T10:43:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
