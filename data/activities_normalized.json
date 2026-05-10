@@ -39492,5 +39492,18 @@
     "start_date_local": "2026-05-09T10:43:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 8862.3,
+    "elevation_gain": 37.4,
+    "id": "18452916315",
+    "moving_time": 7058.0,
+    "name": "POV: Bester Halbmarathon Support",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-10T09:26:30Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
