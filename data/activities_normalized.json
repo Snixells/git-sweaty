@@ -39531,5 +39531,70 @@
     "start_date_local": "2026-05-11T16:08:27Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18482230767",
+    "moving_time": 2714.0,
+    "name": "Physiotherapie am Abend",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-12T19:00:10Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18482230773",
+    "moving_time": 1025.0,
+    "name": "Physiotherapie am Abend",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-12T19:48:37Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 13329.6,
+    "elevation_gain": 2.0,
+    "id": "18482231144",
+    "moving_time": 4826.0,
+    "name": "13km Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T20:06:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 17508.6,
+    "elevation_gain": 68.8,
+    "id": "18491593228",
+    "moving_time": 2099.0,
+    "name": "TrainingPeaks Virtual - Workout: 3x 6min",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T16:09:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18491611541",
+    "moving_time": 1241.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T16:24:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
