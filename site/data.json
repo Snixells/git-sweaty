@@ -27431,6 +27431,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18515356535",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 12,
+      "name": "Koppeltraining (2/2): 5km Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18529171149",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 9,
+      "name": "Koppeltraining (1/2): 65km Fahrrad",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18529180723",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47499,6 +47517,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1241.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18529180723"
+          ],
+          "count": 1,
+          "distance": 68004.1,
+          "elevation_gain": 1031.6,
+          "moving_time": 10920.0
         }
       },
       "Run": {
@@ -47916,6 +47943,15 @@
           "distance": 4244.5,
           "elevation_gain": 12.0,
           "moving_time": 1682.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18529171149"
+          ],
+          "count": 1,
+          "distance": 5310.3,
+          "elevation_gain": 40.4,
+          "moving_time": 1948.0
         }
       },
       "Swim": {
@@ -48795,7 +48831,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T15:42:27.343543+00:00",
+  "generated_at": "2026-05-16T15:22:43.324403+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

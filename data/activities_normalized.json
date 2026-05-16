@@ -39622,5 +39622,31 @@
     "start_date_local": "2026-05-15T10:27:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 5310.3,
+    "elevation_gain": 40.4,
+    "id": "18529171149",
+    "moving_time": 1948.0,
+    "name": "Koppeltraining (2/2): 5km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T12:58:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 68004.1,
+    "elevation_gain": 1031.6,
+    "id": "18529180723",
+    "moving_time": 10920.0,
+    "name": "Koppeltraining (1/2): 65km Fahrrad",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-16T09:37:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
