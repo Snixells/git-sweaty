@@ -39648,5 +39648,18 @@
     "start_date_local": "2026-05-16T09:37:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 10153.5,
+    "elevation_gain": 54.2,
+    "id": "18553728569",
+    "moving_time": 3740.0,
+    "name": "10km VO2 MAX Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-18T12:13:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
