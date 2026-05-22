@@ -39700,5 +39700,31 @@
     "start_date_local": "2026-05-21T09:36:09Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 2225.0,
+    "elevation_gain": 0.0,
+    "id": "18605512847",
+    "moving_time": 4473.0,
+    "name": "Schwimmen am Morgen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-22T09:24:41Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 4778.0,
+    "elevation_gain": 8.4,
+    "id": "18608921395",
+    "moving_time": 879.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-22T16:01:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
