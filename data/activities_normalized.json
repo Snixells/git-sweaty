@@ -39726,5 +39726,31 @@
     "start_date_local": "2026-05-22T16:01:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 10533.9,
+    "elevation_gain": 24.2,
+    "id": "18619369946",
+    "moving_time": 3873.0,
+    "name": "10km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-23T10:37:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18619370341",
+    "moving_time": 477.0,
+    "name": "Physiotherapie am Vormittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-23T10:22:39Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
   }
 ]
