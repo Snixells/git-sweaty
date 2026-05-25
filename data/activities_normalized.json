@@ -39765,5 +39765,18 @@
     "start_date_local": "2026-05-24T11:45:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18639042693",
+    "moving_time": 623.0,
+    "name": "Physiotherapie am Abend",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-24T20:10:39Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
   }
 ]
