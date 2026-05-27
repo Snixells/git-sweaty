@@ -39843,5 +39843,31 @@
     "start_date_local": "2026-05-26T15:48:09Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18673897295",
+    "moving_time": 460.0,
+    "name": "Physiotherapie in der Mittagspause",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-05-27T12:14:06Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 9730.7,
+    "elevation_gain": 53.8,
+    "id": "18673897887",
+    "moving_time": 3742.0,
+    "name": "10km Tempo Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T12:29:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
