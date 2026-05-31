@@ -27629,6 +27629,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18714628560",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 8,
+      "name": "Frankfurter Runde",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18725061522",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48258,6 +48267,15 @@
           "distance": 9730.7,
           "elevation_gain": 53.8,
           "moving_time": 3742.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18725061522"
+          ],
+          "count": 1,
+          "distance": 10224.7,
+          "elevation_gain": 49.8,
+          "moving_time": 3184.0
         }
       },
       "Swim": {
@@ -49191,7 +49209,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T15:26:41.674229+00:00",
+  "generated_at": "2026-05-31T15:28:47.699587+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
