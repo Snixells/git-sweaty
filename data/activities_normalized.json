@@ -39947,5 +39947,31 @@
     "start_date_local": "2026-06-01T07:01:14Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18756870420",
+    "moving_time": 2669.0,
+    "name": "HIIT am Nachmittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-06-02T16:05:54Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18756997279",
+    "moving_time": 224.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-02T17:13:59Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
