@@ -39973,5 +39973,44 @@
     "start_date_local": "2026-06-02T17:13:59Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 10161.0,
+    "elevation_gain": 26.8,
+    "id": "18759414290",
+    "moving_time": 4097.0,
+    "name": "10km Tempo Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T17:31:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18770496394",
+    "moving_time": 415.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-03T16:03:14Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 2550.0,
+    "elevation_gain": 0.0,
+    "id": "18770496400",
+    "moving_time": 4934.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-03T14:18:26Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
