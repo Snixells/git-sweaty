@@ -27764,6 +27764,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18860595280",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18869389943",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 15,
+      "name": "Schwimmen am Nachmittag",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18878986464",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47978,6 +47996,15 @@
           "distance": 53608.4,
           "elevation_gain": 459.6,
           "moving_time": 7753.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18869389943"
+          ],
+          "count": 1,
+          "distance": 53799.3,
+          "elevation_gain": 400.0,
+          "moving_time": 7618.0
         }
       },
       "Run": {
@@ -48649,6 +48676,15 @@
           "distance": 2550.0,
           "elevation_gain": 0.0,
           "moving_time": 4934.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18878986464"
+          ],
+          "count": 1,
+          "distance": 2200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4565.0
         }
       },
       "VirtualRide": {
@@ -49463,7 +49499,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T16:16:38.944586+00:00",
+  "generated_at": "2026-06-11T16:23:19.760852+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
