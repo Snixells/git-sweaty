@@ -27809,6 +27809,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18890889812",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 13,
+      "name": "Schwimmen am Mittag",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18930089102",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48730,6 +48739,15 @@
           "distance": 2200.0,
           "elevation_gain": 0.0,
           "moving_time": 4565.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18930089102"
+          ],
+          "count": 1,
+          "distance": 2525.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4568.0
         }
       },
       "VirtualRide": {
@@ -49553,7 +49571,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T15:34:01.442409+00:00",
+  "generated_at": "2026-06-15T16:36:49.067939+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
