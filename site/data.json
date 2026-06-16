@@ -27818,6 +27818,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18930089102",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 18,
+      "name": "Abendradfahrt",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18933659773",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48050,6 +48059,15 @@
           "distance": 87167.8,
           "elevation_gain": 284.2,
           "moving_time": 12600.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18933659773"
+          ],
+          "count": 1,
+          "distance": 49737.5,
+          "elevation_gain": 315.2,
+          "moving_time": 6881.0
         }
       },
       "Run": {
@@ -49571,7 +49589,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T16:36:49.067939+00:00",
+  "generated_at": "2026-06-16T16:32:34.802938+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
