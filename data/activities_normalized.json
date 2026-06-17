@@ -40194,5 +40194,31 @@
     "start_date_local": "2026-06-15T18:17:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 719.0,
+    "elevation_gain": 2.0,
+    "id": "18947357657",
+    "moving_time": 300.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T18:59:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 2453.9,
+    "elevation_gain": 0.0,
+    "id": "18947358380",
+    "moving_time": 904.0,
+    "name": "Abendlauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T19:22:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
