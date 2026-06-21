@@ -40246,5 +40246,18 @@
     "start_date_local": "2026-06-20T10:07:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 23911.1,
+    "elevation_gain": 205.2,
+    "id": "19011754335",
+    "moving_time": 4200.0,
+    "name": "Mal schauen was das Knie macht 2 \ud83d\udc40",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T15:37:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
