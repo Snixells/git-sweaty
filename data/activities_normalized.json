@@ -40259,5 +40259,18 @@
     "start_date_local": "2026-06-21T15:37:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 2300.0,
+    "elevation_gain": 0.0,
+    "id": "19020301866",
+    "moving_time": 3463.0,
+    "name": "Mittagschwimmen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-22T11:11:06Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
