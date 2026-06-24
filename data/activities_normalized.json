@@ -40272,5 +40272,18 @@
     "start_date_local": "2026-06-22T11:11:06Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 8433.0,
+    "elevation_gain": 31.4,
+    "id": "19038429816",
+    "moving_time": 2995.0,
+    "name": "8km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T17:29:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
