@@ -40298,5 +40298,18 @@
     "start_date_local": "2026-06-26T12:58:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 127852.0,
+    "elevation_gain": 933.0,
+    "id": "19089828884",
+    "moving_time": 21945.0,
+    "name": "Augsburg - Wien [Tag 2/5]",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T10:28:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
