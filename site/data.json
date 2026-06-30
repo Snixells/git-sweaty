@@ -27917,6 +27917,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19103459217",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 9,
+      "name": "Augsburg - Wien [Tag 4/5]",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19114038004",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 9,
+      "name": "Augsburg - Wien [Tag 5/5] \ud83e\udd73",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19125276565",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48194,6 +48212,24 @@
           "distance": 156100.0,
           "elevation_gain": 2014.0,
           "moving_time": 26286.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19114038004"
+          ],
+          "count": 1,
+          "distance": 134047.0,
+          "elevation_gain": 1148.4,
+          "moving_time": 21005.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19125276565"
+          ],
+          "count": 1,
+          "distance": 89692.6,
+          "elevation_gain": 121.6,
+          "moving_time": 14224.0
         }
       },
       "Run": {
@@ -49761,7 +49797,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T16:17:49.875555+00:00",
+  "generated_at": "2026-06-30T15:50:16.080322+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
