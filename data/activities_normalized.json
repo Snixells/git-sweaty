@@ -40315,9 +40315,9 @@
   {
     "date": "2026-06-28",
     "distance": 156100.0,
-    "elevation_gain": 2014.0,
+    "elevation_gain": 1560.3,
     "id": "19103459217",
-    "moving_time": 26286.0,
+    "moving_time": 26287.0,
     "name": "Augsburg - Wien [Tag 3/5]",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
@@ -40349,6 +40349,58 @@
     "raw_type": "Ride",
     "start_date_local": "2026-06-30T09:22:06Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 4378.3,
+    "elevation_gain": 38.0,
+    "id": "19128854359",
+    "moving_time": 3841.0,
+    "name": "Abendspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-30T19:27:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 5353.4,
+    "elevation_gain": 55.2,
+    "id": "19137640198",
+    "moving_time": 1486.0,
+    "name": "Etappe 6/5...oder so",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-01T10:12:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 4289.9,
+    "elevation_gain": 64.4,
+    "id": "19137643135",
+    "moving_time": 910.0,
+    "name": "Etappe 7/5 ???",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-01T14:30:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 3772.8,
+    "elevation_gain": 110.8,
+    "id": "19137643433",
+    "moving_time": 3896.0,
+    "name": "Spaziergang am Morgen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-01T10:47:17Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
