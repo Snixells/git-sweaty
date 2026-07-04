@@ -27989,6 +27989,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19165272162",
       "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 0,
+      "name": "Nachtspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19169054960",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 9,
+      "name": "Spaziergang am Morgen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19172183991",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 11,
+      "name": "Beste Dresden F\u00fchrung",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19178349844",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49427,6 +49454,17 @@
           "distance": 5752.9,
           "elevation_gain": 57.199999999999996,
           "moving_time": 5338.0
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "19169054960",
+            "19172183991",
+            "19178349844"
+          ],
+          "count": 3,
+          "distance": 9697.6,
+          "elevation_gain": 65.8,
+          "moving_time": 8461.0
         }
       },
       "WeightTraining": {
@@ -49889,7 +49927,7 @@
       }
     }
   },
-  "generated_at": "2026-07-03T16:20:34.135409+00:00",
+  "generated_at": "2026-07-04T15:56:34.820773+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
