@@ -28016,6 +28016,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19178349844",
       "year": 2026
+    },
+    {
+      "date": "2026-07-05",
+      "hour": 17,
+      "name": "10km Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19191959902",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48865,6 +48874,15 @@
           "distance": 8433.0,
           "elevation_gain": 31.4,
           "moving_time": 2995.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19191959902"
+          ],
+          "count": 1,
+          "distance": 10065.7,
+          "elevation_gain": 23.6,
+          "moving_time": 3796.0
         }
       },
       "Swim": {
@@ -49927,7 +49945,7 @@
       }
     }
   },
-  "generated_at": "2026-07-05T16:01:48.795246+00:00",
+  "generated_at": "2026-07-06T17:37:05.235206+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
