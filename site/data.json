@@ -28025,6 +28025,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19191959902",
       "year": 2026
+    },
+    {
+      "date": "2026-07-06",
+      "hour": 19,
+      "name": "Ach du Kacke ist die Karre schnell",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19205224550",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 16,
+      "name": "Physiotherapie am Nachmittag",
+      "subtype": "PhysicalTherapy",
+      "type": "PhysicalTherapy",
+      "url": "https://www.strava.com/activities/19217192045",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 17,
+      "name": "Lauf am Nachmittag",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19217192887",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47908,6 +47935,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 278.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "19217192045"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 517.0
         }
       },
       "Ride": {
@@ -48330,6 +48366,15 @@
           "distance": 9643.3,
           "elevation_gain": 119.60000000000001,
           "moving_time": 2396.0
+        },
+        "2026-07-06": {
+          "activity_ids": [
+            "19205224550"
+          ],
+          "count": 1,
+          "distance": 18189.2,
+          "elevation_gain": 104.0,
+          "moving_time": 2560.0
         }
       },
       "Run": {
@@ -48883,6 +48928,15 @@
           "distance": 10065.7,
           "elevation_gain": 23.6,
           "moving_time": 3796.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "19217192887"
+          ],
+          "count": 1,
+          "distance": 14340.9,
+          "elevation_gain": 37.0,
+          "moving_time": 5300.0
         }
       },
       "Swim": {
@@ -49945,7 +49999,7 @@
       }
     }
   },
-  "generated_at": "2026-07-06T17:37:05.235206+00:00",
+  "generated_at": "2026-07-07T17:07:58.096332+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

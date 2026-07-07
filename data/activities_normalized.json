@@ -40480,5 +40480,44 @@
     "start_date_local": "2026-07-05T17:19:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 18189.2,
+    "elevation_gain": 104.0,
+    "id": "19205224550",
+    "moving_time": 2560.0,
+    "name": "Ach du Kacke ist die Karre schnell",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-06T19:58:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19217192045",
+    "moving_time": 517.0,
+    "name": "Physiotherapie am Nachmittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-07-07T16:56:19Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 14340.9,
+    "elevation_gain": 37.0,
+    "id": "19217192887",
+    "moving_time": 5300.0,
+    "name": "Lauf am Nachmittag",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T17:09:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
