@@ -28047,7 +28047,7 @@
     {
       "date": "2026-07-07",
       "hour": 17,
-      "name": "Lauf am Nachmittag",
+      "name": "2x (3x1000m gesteigert)",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19217192887",
@@ -49999,7 +49999,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T17:07:58.096332+00:00",
+  "generated_at": "2026-07-08T16:26:21.298721+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
