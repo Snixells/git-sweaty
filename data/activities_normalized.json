@@ -40571,5 +40571,57 @@
     "start_date_local": "2026-07-12T12:08:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 1726.3,
+    "elevation_gain": 90.4,
+    "id": "19297886790",
+    "moving_time": 2553.0,
+    "name": "Freiwasser",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-13T17:06:54Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 18217.2,
+    "elevation_gain": 89.8,
+    "id": "19297886851",
+    "moving_time": 3210.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-13T15:55:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 17858.3,
+    "elevation_gain": 46.8,
+    "id": "19297886925",
+    "moving_time": 3259.0,
+    "name": "Abendradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-13T18:20:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19310643950",
+    "moving_time": 304.0,
+    "name": "Physiotherapie am Nachmittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-07-14T17:11:12Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
   }
 ]
