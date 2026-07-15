@@ -40623,5 +40623,18 @@
     "start_date_local": "2026-07-14T17:11:12Z",
     "type": "PhysicalTherapy",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 11748.6,
+    "elevation_gain": 32.8,
+    "id": "19312007243",
+    "moving_time": 3994.0,
+    "name": "12km Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T17:26:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
