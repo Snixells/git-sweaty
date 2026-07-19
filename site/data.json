@@ -28151,6 +28151,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19354296162",
       "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 16,
+      "name": "Warum Regen??",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19366413438",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 13,
+      "name": "6km Koppellauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19376034911",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 12,
+      "name": "Gravel Spa\u00df",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19376035144",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48529,6 +48556,24 @@
           "distance": 49293.9,
           "elevation_gain": 319.8,
           "moving_time": 6285.0
+        },
+        "2026-07-18": {
+          "activity_ids": [
+            "19366413438"
+          ],
+          "count": 1,
+          "distance": 56609.4,
+          "elevation_gain": 589.0,
+          "moving_time": 7980.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19376035144"
+          ],
+          "count": 1,
+          "distance": 37002.5,
+          "elevation_gain": 259.2,
+          "moving_time": 5947.0
         }
       },
       "Run": {
@@ -49118,6 +49163,15 @@
           "distance": 8045.1,
           "elevation_gain": 55.8,
           "moving_time": 2759.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19376034911"
+          ],
+          "count": 1,
+          "distance": 6053.0,
+          "elevation_gain": 190.4,
+          "moving_time": 1865.0
         }
       },
       "Swim": {
@@ -50189,7 +50243,7 @@
       }
     }
   },
-  "generated_at": "2026-07-18T15:48:09.108165+00:00",
+  "generated_at": "2026-07-19T15:51:02.869159+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

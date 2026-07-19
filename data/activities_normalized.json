@@ -40662,5 +40662,44 @@
     "start_date_local": "2026-07-17T21:22:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 56609.4,
+    "elevation_gain": 589.0,
+    "id": "19366413438",
+    "moving_time": 7980.0,
+    "name": "Warum Regen??",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T16:38:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 6053.0,
+    "elevation_gain": 190.4,
+    "id": "19376034911",
+    "moving_time": 1865.0,
+    "name": "6km Koppellauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T13:57:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 37002.5,
+    "elevation_gain": 259.2,
+    "id": "19376035144",
+    "moving_time": 5947.0,
+    "name": "Gravel Spa\u00df",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-19T12:00:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
