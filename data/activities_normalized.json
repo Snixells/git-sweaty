@@ -40753,5 +40753,18 @@
     "start_date_local": "2026-07-25T16:10:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 10062.3,
+    "elevation_gain": 18.2,
+    "id": "19476038266",
+    "moving_time": 3201.0,
+    "name": "10km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T18:07:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

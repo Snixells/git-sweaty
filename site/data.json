@@ -28214,6 +28214,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19462513363",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 18,
+      "name": "10km Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19476038266",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49227,6 +49236,15 @@
           "distance": 6053.0,
           "elevation_gain": 190.4,
           "moving_time": 1865.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19476038266"
+          ],
+          "count": 1,
+          "distance": 10062.3,
+          "elevation_gain": 18.2,
+          "moving_time": 3201.0
         }
       },
       "Swim": {
@@ -50307,7 +50325,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T15:57:06.399089+00:00",
+  "generated_at": "2026-07-27T16:53:56.419468+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
