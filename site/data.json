@@ -28241,6 +28241,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19517869826",
       "year": 2026
+    },
+    {
+      "date": "2026-07-30",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19531691923",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-30",
+      "hour": 18,
+      "name": "Letzter Koppellauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19531692421",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48665,6 +48683,15 @@
           "distance": 22494.1,
           "elevation_gain": 131.4,
           "moving_time": 2853.0
+        },
+        "2026-07-30": {
+          "activity_ids": [
+            "19531691923"
+          ],
+          "count": 1,
+          "distance": 15412.9,
+          "elevation_gain": 31.6,
+          "moving_time": 2446.0
         }
       },
       "Run": {
@@ -49281,6 +49308,15 @@
           "distance": 7612.4,
           "elevation_gain": 24.4,
           "moving_time": 2603.0
+        },
+        "2026-07-30": {
+          "activity_ids": [
+            "19531692421"
+          ],
+          "count": 1,
+          "distance": 3994.5,
+          "elevation_gain": 16.4,
+          "moving_time": 1316.0
         }
       },
       "Swim": {
@@ -50361,7 +50397,7 @@
       }
     }
   },
-  "generated_at": "2026-07-30T16:21:34.169193+00:00",
+  "generated_at": "2026-07-31T16:41:00.700805+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
