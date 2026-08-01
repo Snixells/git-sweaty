@@ -28259,6 +28259,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19531692421",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 14,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19555188644",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49935,6 +49944,15 @@
           "distance": 9697.6,
           "elevation_gain": 65.8,
           "moving_time": 8461.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19555188644"
+          ],
+          "count": 1,
+          "distance": 1028.6,
+          "elevation_gain": 4.2,
+          "moving_time": 433.0
         }
       },
       "WeightTraining": {
@@ -50397,7 +50415,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T16:41:00.700805+00:00",
+  "generated_at": "2026-08-01T15:55:28.911817+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

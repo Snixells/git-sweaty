@@ -40818,5 +40818,18 @@
     "start_date_local": "2026-07-30T18:39:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 1028.6,
+    "elevation_gain": 4.2,
+    "id": "19555188644",
+    "moving_time": 433.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-01T14:12:41Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
