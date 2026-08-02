@@ -40831,5 +40831,57 @@
     "start_date_local": "2026-08-01T14:12:41Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 3176.7,
+    "elevation_gain": 2.0,
+    "id": "19563728621",
+    "moving_time": 685.0,
+    "name": "Z\u00e4hlen die Kilometer schon ?",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-02T04:33:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 1634.0,
+    "elevation_gain": 41.8,
+    "id": "19570632024",
+    "moving_time": 2818.0,
+    "name": "Frankfurt City Triathlon: Schwimmen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-02T06:38:20Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 20056.4,
+    "elevation_gain": 121.4,
+    "id": "19570633796",
+    "moving_time": 5949.0,
+    "name": "Frankfurt City Triathlon: Laufen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T10:04:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 79044.7,
+    "elevation_gain": 224.8,
+    "id": "19570685223",
+    "moving_time": 8091.0,
+    "name": "Frankfurt City Triathlon: Fahrrad",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-02T07:45:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

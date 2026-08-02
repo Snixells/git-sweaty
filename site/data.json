@@ -28268,6 +28268,42 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19555188644",
       "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 4,
+      "name": "Z\u00e4hlen die Kilometer schon ?",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19563728621",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 6,
+      "name": "Frankfurt City Triathlon: Schwimmen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19570632024",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 10,
+      "name": "Frankfurt City Triathlon: Laufen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19570633796",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 7,
+      "name": "Frankfurt City Triathlon: Fahrrad",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19570685223",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48701,6 +48737,16 @@
           "distance": 15412.9,
           "elevation_gain": 31.6,
           "moving_time": 2446.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19563728621",
+            "19570685223"
+          ],
+          "count": 2,
+          "distance": 82221.4,
+          "elevation_gain": 226.8,
+          "moving_time": 8776.0
         }
       },
       "Run": {
@@ -49326,6 +49372,15 @@
           "distance": 3994.5,
           "elevation_gain": 16.4,
           "moving_time": 1316.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19570633796"
+          ],
+          "count": 1,
+          "distance": 20056.4,
+          "elevation_gain": 121.4,
+          "moving_time": 5949.0
         }
       },
       "Swim": {
@@ -49535,6 +49590,15 @@
           "distance": 1097.9,
           "elevation_gain": 37.2,
           "moving_time": 2178.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19570632024"
+          ],
+          "count": 1,
+          "distance": 1634.0,
+          "elevation_gain": 41.8,
+          "moving_time": 2818.0
         }
       },
       "VirtualRide": {
@@ -50415,7 +50479,7 @@
       }
     }
   },
-  "generated_at": "2026-08-01T15:55:28.911817+00:00",
+  "generated_at": "2026-08-02T15:55:39.620069+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
