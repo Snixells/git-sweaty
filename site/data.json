@@ -28313,6 +28313,51 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19613515211",
       "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 19,
+      "name": "Abendspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19617196069",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-05",
+      "hour": 20,
+      "name": "Abendspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19618655650",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-06",
+      "hour": 9,
+      "name": "Spaziergang am Morgen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19630881041",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 10,
+      "name": "Spaziergang am Morgen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19639257491",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 12,
+      "name": "Mittagspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19640402590",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50029,12 +50074,33 @@
         },
         "2026-08-05": {
           "activity_ids": [
-            "19613515211"
+            "19613515211",
+            "19617196069",
+            "19618655650"
+          ],
+          "count": 3,
+          "distance": 9860.9,
+          "elevation_gain": 141.6,
+          "moving_time": 9226.0
+        },
+        "2026-08-06": {
+          "activity_ids": [
+            "19630881041"
           ],
           "count": 1,
-          "distance": 7024.4,
-          "elevation_gain": 117.0,
-          "moving_time": 6625.0
+          "distance": 10318.4,
+          "elevation_gain": 87.4,
+          "moving_time": 10813.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "19639257491",
+            "19640402590"
+          ],
+          "count": 2,
+          "distance": 4624.1,
+          "elevation_gain": 26.8,
+          "moving_time": 4676.0
         }
       },
       "WeightTraining": {
@@ -50497,7 +50563,7 @@
       }
     }
   },
-  "generated_at": "2026-08-05T16:27:45.186476+00:00",
+  "generated_at": "2026-08-07T15:47:58.910741+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

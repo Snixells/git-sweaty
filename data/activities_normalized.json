@@ -40896,5 +40896,70 @@
     "start_date_local": "2026-08-05T12:15:48Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 736.0,
+    "elevation_gain": 13.0,
+    "id": "19617196069",
+    "moving_time": 720.0,
+    "name": "Abendspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-05T19:33:51Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 2100.5,
+    "elevation_gain": 11.6,
+    "id": "19618655650",
+    "moving_time": 1881.0,
+    "name": "Abendspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-05T20:39:12Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 10318.4,
+    "elevation_gain": 87.4,
+    "id": "19630881041",
+    "moving_time": 10813.0,
+    "name": "Spaziergang am Morgen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-06T09:40:52Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 2832.8,
+    "elevation_gain": 15.0,
+    "id": "19639257491",
+    "moving_time": 2892.0,
+    "name": "Spaziergang am Morgen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-07T10:20:41Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 1791.3,
+    "elevation_gain": 11.8,
+    "id": "19640402590",
+    "moving_time": 1784.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-07T12:41:42Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
