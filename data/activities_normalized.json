@@ -40961,5 +40961,70 @@
     "start_date_local": "2026-08-07T12:41:42Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 2925.7,
+    "elevation_gain": 32.6,
+    "id": "19643705870",
+    "moving_time": 2690.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-07T15:41:26Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 1758.5,
+    "elevation_gain": 9.2,
+    "id": "19644449425",
+    "moving_time": 1518.0,
+    "name": "Abendspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-07T18:58:38Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 8049.6,
+    "elevation_gain": 39.2,
+    "id": "19649853739",
+    "moving_time": 2992.0,
+    "name": "8km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T07:31:38Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 459.5,
+    "elevation_gain": 2.2,
+    "id": "19649868934",
+    "moving_time": 434.0,
+    "name": "Spaziergang am Morgen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-08T08:25:02Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 3102.7,
+    "elevation_gain": 27.2,
+    "id": "19654281826",
+    "moving_time": 2754.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-08T11:55:24Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
