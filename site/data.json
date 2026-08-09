@@ -28403,6 +28403,69 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19654281826",
       "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 14,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19657239696",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 17,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19658998134",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 20,
+      "name": "Abendspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19660291362",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 10,
+      "name": "Spaziergang am Morgen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19666705427",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 12,
+      "name": "Mittagspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19667761189",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 13,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19668058793",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 14,
+      "name": "Spaziergang am Nachmittag",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19669778547",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50161,12 +50224,27 @@
         "2026-08-08": {
           "activity_ids": [
             "19649868934",
-            "19654281826"
+            "19654281826",
+            "19657239696",
+            "19658998134",
+            "19660291362"
           ],
-          "count": 2,
-          "distance": 3562.2,
-          "elevation_gain": 29.4,
-          "moving_time": 3188.0
+          "count": 5,
+          "distance": 11488.699999999999,
+          "elevation_gain": 94.80000000000001,
+          "moving_time": 10748.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19666705427",
+            "19667761189",
+            "19668058793",
+            "19669778547"
+          ],
+          "count": 4,
+          "distance": 3687.3,
+          "elevation_gain": 23.599999999999998,
+          "moving_time": 4239.0
         }
       },
       "WeightTraining": {
@@ -50629,7 +50707,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:21:59.583990+00:00",
+  "generated_at": "2026-08-09T15:23:15.504898+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
