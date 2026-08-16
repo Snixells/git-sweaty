@@ -41143,5 +41143,70 @@
     "start_date_local": "2026-08-13T18:11:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 363.8,
+    "elevation_gain": 10.0,
+    "id": "19764757617",
+    "moving_time": 194.0,
+    "name": "Schwimmen am Morgen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-16T10:46:22Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 13440.2,
+    "elevation_gain": 33.6,
+    "id": "19764758031",
+    "moving_time": 1297.0,
+    "name": "Mittagsradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T11:00:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 4922.1,
+    "elevation_gain": 31.0,
+    "id": "19764759484",
+    "moving_time": 1350.0,
+    "name": "Mittagslauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T11:23:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 1418.7,
+    "elevation_gain": 5.0,
+    "id": "19765656741",
+    "moving_time": 1129.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-16T13:37:36Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 3374.2,
+    "elevation_gain": 15.4,
+    "id": "19768277578",
+    "moving_time": 2654.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-16T16:15:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
