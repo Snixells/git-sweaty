@@ -41208,5 +41208,18 @@
     "start_date_local": "2026-08-16T16:15:59Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 7237.8,
+    "elevation_gain": 26.2,
+    "id": "19825330656",
+    "moving_time": 2448.0,
+    "name": "7km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-20T16:58:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
