@@ -41234,5 +41234,18 @@
     "start_date_local": "2026-08-22T13:07:00Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 4053.1,
+    "elevation_gain": 14.6,
+    "id": "19862995523",
+    "moving_time": 1557.0,
+    "name": "4km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T12:19:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
