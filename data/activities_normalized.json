@@ -41247,5 +41247,31 @@
     "start_date_local": "2026-08-23T12:19:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 32523.1,
+    "elevation_gain": 289.8,
+    "id": "19869320049",
+    "moving_time": 5219.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T17:24:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 42075.7,
+    "elevation_gain": 288.4,
+    "id": "19877479905",
+    "moving_time": 7619.0,
+    "name": "40km Adventure Gravel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-24T11:44:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
