@@ -28574,6 +28574,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19877479905",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 12,
+      "name": "5km Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19893158350",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49723,6 +49732,15 @@
           "distance": 4053.1,
           "elevation_gain": 14.6,
           "moving_time": 1557.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19893158350"
+          ],
+          "count": 1,
+          "distance": 5042.9,
+          "elevation_gain": 24.6,
+          "moving_time": 1936.0
         }
       },
       "Swim": {
@@ -50907,7 +50925,7 @@
       }
     }
   },
-  "generated_at": "2026-08-24T15:31:38.070746+00:00",
+  "generated_at": "2026-08-25T15:35:04.376820+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

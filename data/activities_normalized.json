@@ -41273,5 +41273,18 @@
     "start_date_local": "2026-08-24T11:44:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 5042.9,
+    "elevation_gain": 24.6,
+    "id": "19893158350",
+    "moving_time": 1936.0,
+    "name": "5km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-25T12:15:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
