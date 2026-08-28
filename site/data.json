@@ -28601,6 +28601,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19908454982",
       "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 10,
+      "name": "5km Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19919664459",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 13,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19922186071",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19925293349",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49071,6 +49098,16 @@
           "distance": 42075.7,
           "elevation_gain": 288.4,
           "moving_time": 7619.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19922186071",
+            "19925293349"
+          ],
+          "count": 2,
+          "distance": 35783.2,
+          "elevation_gain": 139.4,
+          "moving_time": 6379.0
         }
       },
       "Run": {
@@ -49759,6 +49796,15 @@
           "distance": 5042.9,
           "elevation_gain": 24.6,
           "moving_time": 1936.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19919664459"
+          ],
+          "count": 1,
+          "distance": 5028.5,
+          "elevation_gain": 13.0,
+          "moving_time": 2004.0
         }
       },
       "Swim": {
@@ -50961,7 +51007,7 @@
       }
     }
   },
-  "generated_at": "2026-08-26T16:12:00.932564+00:00",
+  "generated_at": "2026-08-28T00:11:17.989594+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
