@@ -41351,5 +41351,31 @@
     "start_date_local": "2026-08-27T17:16:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19951314964",
+    "moving_time": 540.0,
+    "name": "Gewichtstraining zur Mittagszeit",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-28T12:43:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 13046.1,
+    "elevation_gain": 219.8,
+    "id": "19947024891",
+    "moving_time": 4971.0,
+    "name": "13km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-29T11:05:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
