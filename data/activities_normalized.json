@@ -41377,5 +41377,31 @@
     "start_date_local": "2026-08-29T11:05:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 4202.5,
+    "elevation_gain": 75.0,
+    "id": "19959633074",
+    "moving_time": 3855.0,
+    "name": "Spaziergang am Morgen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-30T09:47:30Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19961253793",
+    "moving_time": 416.0,
+    "name": "Gewichtstraining zur Mittagszeit",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-30T12:43:56Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
