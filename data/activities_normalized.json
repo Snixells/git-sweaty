@@ -41403,5 +41403,18 @@
     "start_date_local": "2026-08-30T12:43:56Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 6643.9,
+    "elevation_gain": 14.8,
+    "id": "19974699949",
+    "moving_time": 2593.0,
+    "name": "6km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-31T12:10:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
