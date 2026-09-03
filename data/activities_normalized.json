@@ -41442,5 +41442,18 @@
     "start_date_local": "2026-09-02T17:20:54Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 11044.0,
+    "elevation_gain": 24.4,
+    "id": "20018054607",
+    "moving_time": 3691.0,
+    "name": "11km Pace Race Test",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-03T11:55:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
