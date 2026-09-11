@@ -28754,6 +28754,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20107463835",
       "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 14,
+      "name": "40km Gravel",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20131099828",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49243,6 +49252,15 @@
           "distance": 7371.7,
           "elevation_gain": 26.8,
           "moving_time": 1195.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20131099828"
+          ],
+          "count": 1,
+          "distance": 41188.2,
+          "elevation_gain": 499.2,
+          "moving_time": 7029.0
         }
       },
       "Run": {
@@ -51259,7 +51277,7 @@
       }
     }
   },
-  "generated_at": "2026-09-10T17:59:02.022455+00:00",
+  "generated_at": "2026-09-11T18:03:45.437737+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

@@ -41533,5 +41533,18 @@
     "start_date_local": "2026-09-09T19:54:01Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 41188.2,
+    "elevation_gain": 499.2,
+    "id": "20131099828",
+    "moving_time": 7029.0,
+    "name": "40km Gravel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-11T14:30:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
