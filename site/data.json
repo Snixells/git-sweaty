@@ -28772,6 +28772,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20145955752",
       "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 12,
+      "name": "12km Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20157695458",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50003,6 +50012,15 @@
           "distance": 7162.5,
           "elevation_gain": 38.0,
           "moving_time": 2598.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20157695458"
+          ],
+          "count": 1,
+          "distance": 12064.8,
+          "elevation_gain": 30.8,
+          "moving_time": 4804.0
         }
       },
       "Swim": {
@@ -51295,7 +51313,7 @@
       }
     }
   },
-  "generated_at": "2026-09-12T17:35:39.447263+00:00",
+  "generated_at": "2026-09-13T17:49:05.547141+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
