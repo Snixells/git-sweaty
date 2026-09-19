@@ -28835,6 +28835,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20227738230",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 20,
+      "name": "Abendspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20231902175",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 11,
+      "name": "Mittagspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20242826965",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50919,12 +50937,22 @@
         },
         "2026-09-18": {
           "activity_ids": [
-            "20227738230"
+            "20227738230",
+            "20231902175"
+          ],
+          "count": 2,
+          "distance": 17726.9,
+          "elevation_gain": 98.8,
+          "moving_time": 15995.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20242826965"
           ],
           "count": 1,
-          "distance": 12611.5,
-          "elevation_gain": 92.8,
-          "moving_time": 11825.0
+          "distance": 9224.2,
+          "elevation_gain": 34.2,
+          "moving_time": 7913.0
         }
       },
       "WeightTraining": {
@@ -51405,7 +51433,7 @@
       }
     }
   },
-  "generated_at": "2026-09-18T17:59:36.922826+00:00",
+  "generated_at": "2026-09-19T17:38:36.215781+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
