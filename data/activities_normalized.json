@@ -41676,5 +41676,31 @@
     "start_date_local": "2026-09-19T11:22:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 2327.9,
+    "elevation_gain": 6.0,
+    "id": "20245004067",
+    "moving_time": 2205.0,
+    "name": "Abendspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-19T19:28:45Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 21448.3,
+    "elevation_gain": 81.0,
+    "id": "20255534686",
+    "moving_time": 8141.0,
+    "name": "Kopenhagen Sightseeing \u2764\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-20T11:59:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
