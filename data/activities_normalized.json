@@ -41741,5 +41741,18 @@
     "start_date_local": "2026-09-24T12:31:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 4008.4,
+    "elevation_gain": 25.0,
+    "id": "20327172880",
+    "moving_time": 2992.0,
+    "name": "Spaziergang am Nachmittag",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-25T17:02:56Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
