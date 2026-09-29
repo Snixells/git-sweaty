@@ -28934,6 +28934,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20362712119",
       "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20373784380",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20380243520",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 18,
+      "name": "Abendspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20381069833",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49441,6 +49468,16 @@
           "distance": 10780.6,
           "elevation_gain": 69.0,
           "moving_time": 1420.0
+        },
+        "2026-09-29": {
+          "activity_ids": [
+            "20373784380",
+            "20380243520"
+          ],
+          "count": 2,
+          "distance": 31530.399999999998,
+          "elevation_gain": 176.0,
+          "moving_time": 4373.0
         }
       },
       "Run": {
@@ -51099,6 +51136,15 @@
           "distance": 2067.9,
           "elevation_gain": 6.0,
           "moving_time": 1581.0
+        },
+        "2026-09-29": {
+          "activity_ids": [
+            "20381069833"
+          ],
+          "count": 1,
+          "distance": 2041.2,
+          "elevation_gain": 16.0,
+          "moving_time": 1889.0
         }
       },
       "WeightTraining": {
@@ -51579,7 +51625,7 @@
       }
     }
   },
-  "generated_at": "2026-09-28T20:59:01.959892+00:00",
+  "generated_at": "2026-09-29T19:43:49.482338+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
