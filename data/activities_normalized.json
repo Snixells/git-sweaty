@@ -41845,5 +41845,31 @@
     "start_date_local": "2026-09-30T19:56:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 5182.8,
+    "elevation_gain": 27.0,
+    "id": "20399646004",
+    "moving_time": 1088.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-01T00:37:21Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 2543.2,
+    "elevation_gain": 20.0,
+    "id": "20405203915",
+    "moving_time": 2076.0,
+    "name": "Mittagspaziergang",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-01T11:19:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

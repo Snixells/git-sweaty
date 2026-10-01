@@ -28970,6 +28970,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20397447255",
       "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 0,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20399646004",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 11,
+      "name": "Mittagspaziergang",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20405203915",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49487,6 +49505,15 @@
           "distance": 31530.399999999998,
           "elevation_gain": 176.0,
           "moving_time": 4373.0
+        },
+        "2026-10-01": {
+          "activity_ids": [
+            "20399646004"
+          ],
+          "count": 1,
+          "distance": 5182.8,
+          "elevation_gain": 27.0,
+          "moving_time": 1088.0
         }
       },
       "Run": {
@@ -51163,6 +51190,15 @@
           "distance": 2041.2,
           "elevation_gain": 16.0,
           "moving_time": 1889.0
+        },
+        "2026-10-01": {
+          "activity_ids": [
+            "20405203915"
+          ],
+          "count": 1,
+          "distance": 2543.2,
+          "elevation_gain": 20.0,
+          "moving_time": 2076.0
         }
       },
       "WeightTraining": {
@@ -51643,7 +51679,7 @@
       }
     }
   },
-  "generated_at": "2026-09-30T19:45:54.302752+00:00",
+  "generated_at": "2026-10-01T20:01:41.197240+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
