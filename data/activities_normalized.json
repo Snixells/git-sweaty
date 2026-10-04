@@ -41871,5 +41871,18 @@
     "start_date_local": "2026-10-01T11:19:59Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 12643.3,
+    "elevation_gain": 46.0,
+    "id": "20446543737",
+    "moving_time": 4451.0,
+    "name": "12km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T12:38:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
