@@ -42027,5 +42027,31 @@
     "start_date_local": "2026-10-14T19:17:29Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 3786.8,
+    "elevation_gain": 15.0,
+    "id": "20613218981",
+    "moving_time": 856.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-16T16:27:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 12207.6,
+    "elevation_gain": 73.0,
+    "id": "20619297601",
+    "moving_time": 4393.0,
+    "name": "12km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-17T11:22:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
