@@ -42131,5 +42131,18 @@
     "start_date_local": "2026-10-23T08:21:18Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 4928.6,
+    "elevation_gain": 25.0,
+    "id": "20709105778",
+    "moving_time": 1946.0,
+    "name": "\ud83e\udd68\ud83e\udd68\ud83e\udd68",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-24T10:00:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
