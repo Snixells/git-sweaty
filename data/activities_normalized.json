@@ -42144,5 +42144,18 @@
     "start_date_local": "2026-10-24T10:00:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 15793.0,
+    "elevation_gain": 30.0,
+    "id": "20724647218",
+    "moving_time": 5004.0,
+    "name": "15km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T11:29:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
