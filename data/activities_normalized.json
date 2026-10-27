@@ -42157,5 +42157,18 @@
     "start_date_local": "2026-10-25T11:29:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 13586.8,
+    "elevation_gain": 99.0,
+    "id": "20749807542",
+    "moving_time": 1777.0,
+    "name": "Long Time No See",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-27T12:30:51Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
