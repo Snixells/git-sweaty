@@ -42196,5 +42196,18 @@
     "start_date_local": "2026-10-29T19:01:59Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 22990.4,
+    "elevation_gain": 274.0,
+    "id": "20788939341",
+    "moving_time": 3610.0,
+    "name": "Zwift - 1h Easy Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-30T10:25:48Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
