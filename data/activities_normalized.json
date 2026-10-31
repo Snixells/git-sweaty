@@ -42209,5 +42209,18 @@
     "start_date_local": "2026-10-30T10:25:48Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 7034.9,
+    "elevation_gain": 123.0,
+    "id": "20802084031",
+    "moving_time": 2563.0,
+    "name": "7km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T11:31:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
