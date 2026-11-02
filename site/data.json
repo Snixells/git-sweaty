@@ -29231,6 +29231,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20802084031",
       "year": 2026
+    },
+    {
+      "date": "2026-11-02",
+      "hour": 10,
+      "name": "Leistungsdiagnostik Rad",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20827549624",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49794,6 +49803,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2.0
+        },
+        "2026-11-02": {
+          "activity_ids": [
+            "20827549624"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4768.0
         }
       },
       "Run": {
@@ -52141,7 +52159,7 @@
       }
     }
   },
-  "generated_at": "2026-11-01T19:18:10.257536+00:00",
+  "generated_at": "2026-11-02T22:57:40.731500+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
