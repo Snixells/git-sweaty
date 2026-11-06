@@ -42287,5 +42287,18 @@
     "start_date_local": "2026-11-05T19:02:20Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 11154.2,
+    "elevation_gain": 0.0,
+    "id": "20881119251",
+    "moving_time": 3601.0,
+    "name": "Leistungsdiagnostik Lauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-06T10:55:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
