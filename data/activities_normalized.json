@@ -42300,5 +42300,18 @@
     "start_date_local": "2026-11-06T10:55:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 48996.3,
+    "elevation_gain": 546.0,
+    "id": "20910226472",
+    "moving_time": 7412.0,
+    "name": "Zwift - GA 1 120min",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-08T14:18:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
