@@ -29294,6 +29294,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20910226472",
       "year": 2026
+    },
+    {
+      "date": "2026-11-09",
+      "hour": 12,
+      "name": "Grundausdauer",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20919832245",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51060,6 +51069,15 @@
           "distance": 450.0,
           "elevation_gain": 0.0,
           "moving_time": 585.0
+        },
+        "2026-11-09": {
+          "activity_ids": [
+            "20919832245"
+          ],
+          "count": 1,
+          "distance": 2100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3695.0
         }
       },
       "VirtualRide": {
@@ -52267,7 +52285,7 @@
       }
     }
   },
-  "generated_at": "2026-11-08T19:15:57.380066+00:00",
+  "generated_at": "2026-11-09T23:39:56.542011+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
