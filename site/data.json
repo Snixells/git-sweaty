@@ -29312,6 +29312,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20934239158",
       "year": 2026
+    },
+    {
+      "date": "2026-11-11",
+      "hour": 16,
+      "name": "Zwift",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20949737054",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51251,6 +51260,15 @@
           "distance": 48996.3,
           "elevation_gain": 546.0,
           "moving_time": 7412.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "20949737054"
+          ],
+          "count": 1,
+          "distance": 36404.9,
+          "elevation_gain": 425.0,
+          "moving_time": 5455.0
         }
       },
       "Walk": {
@@ -52303,7 +52321,7 @@
       }
     }
   },
-  "generated_at": "2026-11-10T21:07:59.826447+00:00",
+  "generated_at": "2026-11-11T21:41:06.394846+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
