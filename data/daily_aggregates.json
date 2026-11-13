@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T21:40:27.113077+00:00",
+  "generated_at": "2026-11-13T21:07:22.390380+00:00",
   "years": {
     "2018": {
       "Walk": {
@@ -21791,6 +21791,15 @@
           "distance": 575.0,
           "elevation_gain": 0.0,
           "moving_time": 735.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20969441444"
+          ],
+          "count": 1,
+          "distance": 1675.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3360.0
         }
       },
       "VirtualRide": {
@@ -22665,6 +22674,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 416.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20973511411"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 663.0
         }
       },
       "Workout": {
@@ -23003,6 +23021,26 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 415.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20973580404"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14.0
+        }
+      },
+      "Yoga": {
+        "2026-11-13": {
+          "activity_ids": [
+            "20973530139"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14.0
         }
       }
     }

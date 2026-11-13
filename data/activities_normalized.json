@@ -42365,5 +42365,57 @@
     "start_date_local": "2026-11-12T19:05:16Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 1675.0,
+    "elevation_gain": 0.0,
+    "id": "20969441444",
+    "moving_time": 3360.0,
+    "name": "Schwimmen am Morgen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-13T09:07:07Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20973511411",
+    "moving_time": 663.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-13T16:44:52Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20973530139",
+    "moving_time": 14.0,
+    "name": "Yoga am Nachmittag",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-11-13T16:57:28Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20973580404",
+    "moving_time": 14.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-13T17:01:47Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

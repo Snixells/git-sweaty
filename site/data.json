@@ -29330,6 +29330,42 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20963244474",
       "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 9,
+      "name": "Schwimmen am Morgen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20969441444",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 16,
+      "name": "Gewichtstraining am Nachmittag",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20973511411",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 16,
+      "name": "Yoga am Nachmittag",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/20973530139",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 17,
+      "name": "Nachmittagstraining",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20973580404",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51123,6 +51159,15 @@
           "distance": 575.0,
           "elevation_gain": 0.0,
           "moving_time": 735.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20969441444"
+          ],
+          "count": 1,
+          "distance": 1675.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3360.0
         }
       },
       "VirtualRide": {
@@ -51997,6 +52042,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 416.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20973511411"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 663.0
         }
       },
       "Workout": {
@@ -52335,11 +52389,31 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 415.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20973580404"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14.0
+        }
+      },
+      "Yoga": {
+        "2026-11-13": {
+          "activity_ids": [
+            "20973530139"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 14.0
         }
       }
     }
   },
-  "generated_at": "2026-11-12T21:40:27.140303+00:00",
+  "generated_at": "2026-11-13T21:07:22.414019+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
