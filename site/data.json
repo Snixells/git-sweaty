@@ -29366,6 +29366,33 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/20973580404",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 19,
+      "name": "Zwift - Kadenz & Z2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20989562780",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 12,
+      "name": "11km Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20997276160",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 17,
+      "name": "Yoga am Nachmittag",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/21000129345",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50833,6 +50860,15 @@
           "distance": 9851.7,
           "elevation_gain": 31.0,
           "moving_time": 3698.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "20997276160"
+          ],
+          "count": 1,
+          "distance": 11223.1,
+          "elevation_gain": 49.0,
+          "moving_time": 3932.0
         }
       },
       "Swim": {
@@ -51332,6 +51368,15 @@
           "distance": 36404.9,
           "elevation_gain": 425.0,
           "moving_time": 5455.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20989562780"
+          ],
+          "count": 1,
+          "distance": 66095.0,
+          "elevation_gain": 479.0,
+          "moving_time": 9810.0
         }
       },
       "Walk": {
@@ -52409,11 +52454,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 14.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "21000129345"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 782.0
         }
       }
     }
   },
-  "generated_at": "2026-11-14T19:38:31.971829+00:00",
+  "generated_at": "2026-11-15T20:03:45.559375+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

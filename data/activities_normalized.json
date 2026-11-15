@@ -42417,5 +42417,44 @@
     "start_date_local": "2026-11-13T17:01:47Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 66095.0,
+    "elevation_gain": 479.0,
+    "id": "20989562780",
+    "moving_time": 9810.0,
+    "name": "Zwift - Kadenz & Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-14T19:27:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 11223.1,
+    "elevation_gain": 49.0,
+    "id": "20997276160",
+    "moving_time": 3932.0,
+    "name": "11km Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-15T12:55:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21000129345",
+    "moving_time": 782.0,
+    "name": "Yoga am Nachmittag",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-11-15T17:33:13Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
