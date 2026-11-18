@@ -42476,7 +42476,7 @@
     "elevation_gain": 0.0,
     "id": "21026207442",
     "moving_time": 2631.0,
-    "name": "Abendlauf",
+    "name": "Indoor Intervalle",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-11-17T20:23:57Z",
@@ -42494,6 +42494,19 @@
     "raw_type": "PhysicalTherapy",
     "start_date_local": "2026-11-17T21:26:12Z",
     "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 50172.6,
+    "elevation_gain": 950.0,
+    "id": "21039523906",
+    "moving_time": 9027.0,
+    "name": "Zwift - GA 1 2:40h",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-18T19:14:22Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]
