@@ -29429,6 +29429,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21039523906",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 19,
+      "name": "Abendschwimmen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/21050529294",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51259,6 +51268,15 @@
           "distance": 1675.0,
           "elevation_gain": 0.0,
           "moving_time": 3360.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21050529294"
+          ],
+          "count": 1,
+          "distance": 1050.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1216.0
         }
       },
       "VirtualRide": {
@@ -52531,7 +52549,7 @@
       }
     }
   },
-  "generated_at": "2026-11-18T22:26:32.865362+00:00",
+  "generated_at": "2026-11-19T22:31:23.003871+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",
