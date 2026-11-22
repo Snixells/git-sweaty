@@ -29438,6 +29438,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/21050529294",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 10,
+      "name": "Eigentlich Long Run aber Beine wollen nicht \ud83e\udd72",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21081335186",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50933,6 +50942,15 @@
           "distance": 7382.9,
           "elevation_gain": 0.0,
           "moving_time": 4268.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21081335186"
+          ],
+          "count": 1,
+          "distance": 4612.0,
+          "elevation_gain": 84.0,
+          "moving_time": 1731.0
         }
       },
       "Swim": {
@@ -52549,7 +52567,7 @@
       }
     }
   },
-  "generated_at": "2026-11-21T20:43:32.113952+00:00",
+  "generated_at": "2026-11-22T20:53:53.362105+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/74832547",
   "repo": "Snixells/git-sweaty",

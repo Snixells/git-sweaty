@@ -42521,5 +42521,18 @@
     "start_date_local": "2026-11-19T19:02:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 4612.0,
+    "elevation_gain": 84.0,
+    "id": "21081335186",
+    "moving_time": 1731.0,
+    "name": "Eigentlich Long Run aber Beine wollen nicht \ud83e\udd72",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-22T10:26:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
