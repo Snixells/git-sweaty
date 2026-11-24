@@ -42547,5 +42547,18 @@
     "start_date_local": "2026-11-23T14:43:02Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 26326.5,
+    "elevation_gain": 394.0,
+    "id": "21112262683",
+    "moving_time": 4593.0,
+    "name": "Zwift - Grundlage - Motorik!",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-24T20:22:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
