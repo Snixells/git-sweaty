@@ -42560,5 +42560,31 @@
     "start_date_local": "2026-11-24T20:22:50Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 7722.8,
+    "elevation_gain": 26.0,
+    "id": "21118638040",
+    "moving_time": 2840.0,
+    "name": "7km Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-25T12:02:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21124394376",
+    "moving_time": 493.0,
+    "name": "HIIT in der Nacht",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-11-25T21:29:21Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
