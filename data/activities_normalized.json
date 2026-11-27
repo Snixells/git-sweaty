@@ -42586,5 +42586,18 @@
     "start_date_local": "2026-11-25T21:29:21Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 8046.3,
+    "elevation_gain": 25.0,
+    "id": "21142690873",
+    "moving_time": 2638.0,
+    "name": "8km Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-27T13:32:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
